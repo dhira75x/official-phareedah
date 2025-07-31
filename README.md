@@ -5,7 +5,7 @@ Software Developer | UI/UX Designer | Product Designer
 📍 Abuja, Nigeria | ✉️ fariffarida@gmail.com
 🚀 Portfolio
 
-👉 Explore My Work 👈
+👉 Explore My Work: https://my-portfolio-3ut2qgejp-farida-francisca-abduls-projects.vercel.app/  👈
 🛠️ Tech Stack
 
     Frontend: Vue.js, Angular, React, Tailwind CSS
